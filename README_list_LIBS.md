@@ -1,7 +1,3 @@
-# homework 10
-
-https://github.com/Paul-tech-CA/goit-js-hw-10-food-service
-
 <!-- https://basiclightbox.electerious.com/ или https://micromodal.now.sh/ или https://tingle.robinparisi.com/
 https://pawelgrzybek.github.io/siema/
 https://github.com/cferdinandi/gumshoe/
